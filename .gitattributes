@@ -1,10 +1,10 @@
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
-*.js linguist-language=python/javascript
-*.css linguist-language=python/javascript
-*.html linguist-language=python/javascript
-* text=auto
+*.js linguist-language=python
+*.css linguist-language=python
+*.html linguist-language=python
+#* text=auto
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
